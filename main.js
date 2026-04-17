@@ -1,3 +1,3 @@
-const a = "Nuevas ramas del proyecto iniciadas!!!!";
+const a = "Que tal";
 
 console.log(a);
