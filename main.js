@@ -1,3 +1,3 @@
-const a = "Inicio de nuevos proyectos insertando en el repositorio de GitHub";
+const a = "Estamos en la barra login";
 
 console.log(a);
