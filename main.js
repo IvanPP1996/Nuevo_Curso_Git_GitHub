@@ -1,3 +1,3 @@
-const a = "Que tal";
+const a = "Nuevos comienzos";
 
 console.log(a);
